@@ -229,12 +229,12 @@
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = 9MF8G8D9Y5;
+						DevelopmentTeam = SV4JQ48L5J;
 						LastSwiftMigration = 0900;
 					};
 					9CEB7A461CC834340077C44D = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = 9MF8G8D9Y5;
+						DevelopmentTeam = SV4JQ48L5J;
 						LastSwiftMigration = 0900;
 					};
 				};
@@ -561,7 +561,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9MF8G8D9Y5;
+				DEVELOPMENT_TEAM = SV4JQ48L5J;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/Realm\"",
@@ -569,7 +569,7 @@
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxCocoa\"",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxRealm\"",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxSwift-iOS8.0\"",
-					"$PODS_CONFIGURATION_BUILD_DIR",
+					$PODS_CONFIGURATION_BUILD_DIR,
 				);
 				INFOPLIST_FILE = RxRealm/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -588,7 +588,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9MF8G8D9Y5;
+				DEVELOPMENT_TEAM = SV4JQ48L5J;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/Realm\"",
@@ -596,7 +596,7 @@
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxCocoa\"",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxRealm\"",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxSwift-iOS8.0\"",
-					"$PODS_CONFIGURATION_BUILD_DIR",
+					$PODS_CONFIGURATION_BUILD_DIR,
 				);
 				INFOPLIST_FILE = RxRealm/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -616,7 +616,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 9MF8G8D9Y5;
+				DEVELOPMENT_TEAM = SV4JQ48L5J;
 				INFOPLIST_FILE = RxRealm_Tests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -633,7 +633,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ANALYZER_NONNULL = YES;
-				DEVELOPMENT_TEAM = 9MF8G8D9Y5;
+				DEVELOPMENT_TEAM = SV4JQ48L5J;
 				INFOPLIST_FILE = RxRealm_Tests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
