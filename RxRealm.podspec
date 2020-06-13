@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.source_files = 'Pod/Classes/*.swift'
 
   s.frameworks = 'Foundation'
-  s.dependency 'RealmSwift', '~> 5.0'
+  s.dependency 'RealmSwift', '=10.0.0-beta.2'
   s.dependency 'RxSwift', '~> 5.0'
 
 end

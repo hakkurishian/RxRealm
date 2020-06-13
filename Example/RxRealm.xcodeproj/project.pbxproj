@@ -537,10 +537,7 @@
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RealmSwift\"",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxCocoa\"",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxRealm\"",
-<<<<<<< HEAD
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxSwift-iOS8.0\"",
-=======
->>>>>>> c4dcc49acbf8073a8a6481b571c640bb169650f1
 					$PODS_CONFIGURATION_BUILD_DIR,
 				);
 				INFOPLIST_FILE = RxRealm/Info.plist;
@@ -569,10 +566,7 @@
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RealmSwift\"",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxCocoa\"",
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxRealm\"",
-<<<<<<< HEAD
 					"\"$PODS_CONFIGURATION_BUILD_DIR/RxSwift-iOS8.0\"",
-=======
->>>>>>> c4dcc49acbf8073a8a6481b571c640bb169650f1
 					$PODS_CONFIGURATION_BUILD_DIR,
 				);
 				INFOPLIST_FILE = RxRealm/Info.plist;
